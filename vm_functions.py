@@ -15,7 +15,7 @@ def products(): #LETS PUT SOME DEFAULT ITEMS IN THE VENDING MACHINE
     items.append(prod4)
     prod5=VM_prod("B1",5,"Iced tea",5)
     items.append(prod5)
-    prod6=VM_prod("B2",7,"Cheetos,5")
+    prod6=VM_prod("B2",7,"Cheetos",5)
     items.append(prod6)
     prod7=VM_prod("B3",7,"Doritos",1) 
     items.append(prod7)
